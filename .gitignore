@@ -1,0 +1,5 @@
+.venv
+my_site/db.sqlite3
+my_site/*/__pycache__
+my_site/*/node_modules
+my_site/.env
